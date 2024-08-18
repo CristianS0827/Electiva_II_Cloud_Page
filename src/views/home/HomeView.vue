@@ -251,12 +251,12 @@
           </div>
         </div>
       </div>
-    </footer>
+    </footer>   
   </div>
 </template>
 
 <script setup>
-import Banner from "../../components/Banner.vue";
+import Banner from "../../components/bannerLanding.vue";
 import { ref } from "vue";
 import {
   Dialog,
